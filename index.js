@@ -1,6 +1,3 @@
-//output your name - ex1
-//console.log("Sourav Nath")
-//input user's name - ex2
 /*var readlineSync = require('readline-sync')
 var username = readlineSync.question("May I have your name please!")
 var welcomeMessage = "Welcome!" + username;
